@@ -43,6 +43,9 @@ Il nostro progetto è indirizzato per gli adolescenti (over 13) ed appare come u
 ![Immagine WhatsApp 2023-02-01 ore 19 27 44](https://user-images.githubusercontent.com/64893048/216153705-eb2e655d-c0f5-4be2-af76-ed709da27d80.jpg)
 ![Immagine WhatsApp 2023-02-01 ore 19 28 08](https://user-images.githubusercontent.com/64893048/216153776-f633b0b5-16e3-4066-85ea-c6110f3bf348.jpg)
 
+## Problemi noti
+- A volte il programma non esce nonostante venga inserito il comando `exit`
+- Quando viene eseguito `voice`, il test viene ripetuto più volte
 
 
 
