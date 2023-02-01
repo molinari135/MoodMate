@@ -13,7 +13,7 @@ Il programma è stato implementato in Python su Colab. Prima di eseguire il codi
 
 ![image](https://user-images.githubusercontent.com/64893048/216153218-25e2cadc-f803-4718-bb83-cc42983ce199.png)
 
-Per eseguirlo, andare su [Colab](https://colab.research.google.com/drive/1_C3-A6j4SXfyW64WGO4qRSDk15MT1Nzv?usp=sharing) alla sezione Chatbod MoodMate ed eseguire il blocco di codice.
+Per eseguirlo, andare su [Colab](https://colab.research.google.com/drive/1_C3-A6j4SXfyW64WGO4qRSDk15MT1Nzv?usp=sharing) alla sezione Chatbot MoodMate ed eseguire il blocco di codice.
 
 ![image](https://user-images.githubusercontent.com/64893048/216152751-3f66b652-f2a1-405a-9afc-647cca2c7fbd.png)
 
